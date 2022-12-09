@@ -1,9 +1,5 @@
 package rocks.zipcode.io;
 
-import rocks.zipcode.io.comparators.IdComparator;
-import rocks.zipcode.io.comparators.NameComparator;
-import rocks.zipcode.io.comparators.PriceComparator;
-
 import java.util.Arrays;
 import java.util.Comparator;
 
