@@ -12,8 +12,6 @@ import java.util.function.ToLongFunction;
  * @author leon on 30/01/2019.
  */
 public class IdComparator implements Comparator<Item> {
-    public IdComparator() {
-    }
 
     @Override
     public int compare(Item o1, Item o2) {
